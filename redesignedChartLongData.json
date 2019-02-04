@@ -1,16 +1,16 @@
 {
   "name": "Ag Tech",
-  "imageUrl": "https://github.com/deepak007danieal/companydata/blob/logo/logo.png",
+  "imageUrl": "https://raw.githubusercontent.com/deepak007danieal/companydata/master/logo.png",
   "area": "Gaming",
   "profileUrl": "https://www.google.com.au/?gws_rd=ssl#",
   "office": "London",
   "tags": "Gaming,Entertainment",
   "isLoggedUser": false,
   "unit": {
-    "type": "business",
+    "type": "Business",
     "value": "Business first"
   },
-  "positionName": "Cheaf Executive Officer ",
+  "positionName": "Gaming & Entertainment",
   "children": [
     {
       "name": "Davolio Nancy",
